@@ -436,7 +436,7 @@ footer {
 
 
 /* Select style */
-*::selection {
+::selection {
     color: #cbb9b8;
     background: #957c7b;
    }
